@@ -1,5 +1,5 @@
-# 💫 About Me:
-Soy estudiante de Ingeniería en Software, apasionado por la tecnología y el desarrollo de soluciones innovadoras. Me motiva aprender y aplicar conocimientos en programación y diseño de sistemas para resolver problemas reales. Mi objetivo es desarrollar habilidades técnicas y prácticas para convertirme en un profesional versátil en el campo de la ingeniería de software, capaz de crear aplicaciones eficientes y escalables que generen impacto.<br>
+# 👤 About Me:
+Soy ingeniero de software apasionado por crear soluciones eficientes y bien diseñadas. Me encanta escribir código limpio, usar nombres de variables claros y desarrollar programas que sean tanto funcionales como fáciles de mantener. Programar no es solo mi trabajo, es lo que realmente disfruto hacer.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandrofelix2) 
